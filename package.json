@@ -1,0 +1,31 @@
+{
+  "name": "themoviedb",
+  "version": "1.0.0",
+  "description": "A practices apirest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juandcf/curso-api-rest-javascript-practico.git"
+  },
+  "keywords": [
+    "[\"javascript\"",
+    "\"node\"",
+    "\"apirest\"]"
+  ],
+  "author": "Juan De Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juandcf/curso-api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/Juandcf/curso-api-rest-javascript-practico#readme",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.12.0"
+  }
+}
